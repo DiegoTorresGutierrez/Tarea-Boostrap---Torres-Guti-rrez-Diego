@@ -1,7 +1,7 @@
 # Tarea-Boostrap---Torres-Guti-rrez-Diego
 Inspirada en un restaurante de cortes.
 
-#Enlace:
+# Enlace:
 https://diegotorresgutierrez.github.io/Tarea-Boostrap---Torres-Gutierrez-Diego/
 
 Imagenes de muestra:
